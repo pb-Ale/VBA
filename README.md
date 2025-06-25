@@ -1,6 +1,9 @@
 # VBA
 Arquivos de excel que rodam códigos em VBA. 
 
+Este código envia uma série de emails de forma automática com a base criada a partir das colunas descritas conforme abaixo. 
+Cada email possui o descritivo da concessionária, processo interno a ser seguido e o anexo.
+
 # Colunas existentes
 Descrição da coluna 
 
